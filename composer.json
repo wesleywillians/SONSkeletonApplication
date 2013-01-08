@@ -1,0 +1,24 @@
+{
+    "name": "wesleywillians/SONSkeletonApplication",
+    "description": "Skeleton Application for ZF2 from School of Net",
+    "license": "MIT",
+    "keywords": [
+        "framework",
+        "zf2",
+		"son"
+    ],
+    "homepage": "http://framework.zend.com/",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.*"
+    },
+    
+    "minimum-stability": "dev",
+    "require": {
+        "doctrine/doctrine-orm-module": "dev-master",
+        "hounddog/doctrine-data-fixture-module": "dev-master",
+		"wesleywillians/SONBase": "dev-master"
+    }
+   
+    
+}
