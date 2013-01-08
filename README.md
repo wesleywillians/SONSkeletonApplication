@@ -1,4 +1,4 @@
-ZendSkeletonApplication
+SONSkeletonApplication
 =======================
 
 Introduction
@@ -18,8 +18,8 @@ Clone the repository and manually invoke `composer` using the shipped
 `composer.phar`:
 
     cd my/project/dir
-    git clone https://github.com/wesleywillians/SONSkelZF2
-    cd ZendSkeletonApplication
+    git clone https://github.com/wesleywillians/SONSkeletonApplication
+    cd SONkeletonApplication
     php composer.phar self-update
     php composer.phar install
 
@@ -36,3 +36,7 @@ Tests
 This module is prepared to be tested with phpunit and Doctrine 2 is already setup.
 
 OBS: Thanks eminetto to help with TestCase (https://github.com/eminetto/ZendSkeletonApplication)
+=======
+SONSkeletonApplication
+======================
+
