@@ -1,5 +1,5 @@
 {
-    "name": "wesleywillians/SONSkeletonApplication",
+    "name": "wesleywillians/son-skeleton-application",
     "description": "Skeleton Application for ZF2 from School of Net",
     "license": "MIT",
     "keywords": [
@@ -12,13 +12,14 @@
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.*"
     },
-    
+    "require": {
+		"wesleywillians/son-base": "dev-master"
+    },
     "minimum-stability": "dev",
     "require": {
         "doctrine/doctrine-orm-module": "dev-master",
-        "hounddog/doctrine-data-fixture-module": "dev-master",
-		"wesleywillians/SONBase": "dev-master"
+        "hounddog/doctrine-data-fixture-module": "dev-master"
     }
-   
-    
+
+
 }
