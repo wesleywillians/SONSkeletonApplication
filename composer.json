@@ -7,7 +7,7 @@
         "zf2",
 		"son"
     ],
-    "homepage": "http://framework.zend.com/",
+    "homepage": "https://github.com/wesleywillians/SONSkeletonApplication",
     "require": {
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.*",
