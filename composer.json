@@ -10,16 +10,13 @@
     "homepage": "http://framework.zend.com/",
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zendframework": "2.0.6",
-        "wesleywillians/SONBase": "*"
-    },
-    "require": {
-		"wesleywillians/son-base": "dev-master"
+        "zendframework/zendframework": "2.*"
     },
     "minimum-stability": "dev",
     "require": {
         "doctrine/doctrine-orm-module": "dev-master",
-        "hounddog/doctrine-data-fixture-module": "dev-master"
+        "hounddog/doctrine-data-fixture-module": "dev-master",
+        "wesleywillians/son-base": "dev-master"
     }
 
 
