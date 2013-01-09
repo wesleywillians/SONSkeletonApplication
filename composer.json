@@ -20,7 +20,12 @@
     "require": {
         "doctrine/doctrine-orm-module": "dev-master",
         "hounddog/doctrine-data-fixture-module": "dev-master"
-    }
+		},
+		"extra": {
+		        "branch-alias": {
+		            "dev-develop": "1.0-dev"
+		        }
+		    }
 
 
 }
